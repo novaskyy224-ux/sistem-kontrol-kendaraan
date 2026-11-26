@@ -53,8 +53,8 @@ Environment: PHP 8.4.14, PHPUnit 12.5.33, Pest 4.7.8, PHP built-in server, and i
 
 ## GitHub evidence
 
-- Testing branch: `https://github.com/Novaastar/sistem-kontrol-kendaraan/tree/testing`
-- Dedicated unit-test implementation commit: `https://github.com/Novaastar/sistem-kontrol-kendaraan/commit/cc07274376967263151bfdd345f4588e7feb1de8`
+- Testing branch: `https://github.com/novaskyy224-ux/sistem-kontrol-kendaraan/tree/testing`
+- Dedicated unit-test implementation commit: `https://github.com/novaskyy224-ux/sistem-kontrol-kendaraan/commit/cc07274376967263151bfdd345f4588e7feb1de8`
 
 ## Pre-Lab coverage boundary
 
